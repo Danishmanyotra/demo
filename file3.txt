@@ -1,2 +1,3 @@
 i create a new branch
 i fixed one bug.
+i fixed second bug.
